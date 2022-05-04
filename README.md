@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-##-🔭 I’m currently working on a Virtual Assistant, Networking a chat app, and a bit of Game devlopment!
-##- 🌱 I want to learn C++, Kotlin, and Machine Learning!
+##🔭 I’m currently working on a Virtual Assistant, Networking a chat app, and a bit of Game devlopment!
+## 🌱 I want to learn C++, Kotlin, and Machine Learning!
 ##- 👯 I’m looking to collaborate on ...
 ##- 🤔 I’m looking for help with ...
 ##- 💬 Ask me about ...
