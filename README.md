@@ -10,3 +10,4 @@
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Jun3-dev)](https://github.com/LordDashMe/github-contribution-stats/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun3-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Jun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jun3-dev)](https://github.com/anuraghazra/github-readme-stats)
