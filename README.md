@@ -8,4 +8,4 @@
 - 😎 Pronouns: He/Him
 
 
-[![Jun3-dev's](https://github-readme-stats.vercel.app/api?username=Jun3-dev&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Jun3-dev)](https://github.com/LordDashMe/github-contribution-stats/)
