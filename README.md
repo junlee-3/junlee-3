@@ -8,5 +8,4 @@
 - 😎 Pronouns: He/Him
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Jun3-dev)](https://github.com/LordDashMe/github-contribution-stats/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun3-dev)](https://github.com/anuraghazra/github-readme-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Jun3-dev?theme=dracula)](https://github.com/LordDashMe/github-contribution-stats/)
