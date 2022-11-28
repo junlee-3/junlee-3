@@ -4,7 +4,7 @@
 - 🌱 I want to learn C++, Kotlin, Rust, and Machine Learning!
 - 🎓 I mainly code in Python, C#, Javascript, NodeJS, Java, HTML, and CSS!
 - 📫 You can Reach me through discord!  
-- 🎮 I like to play CS:GO, ER:LC, Minecraft, Microsoft Flight simulator, DCS, War Thunder, and X-Plane!
+- 🎮 I like to play DCS!
 - 😎 Pronouns: He/Him
 
 
