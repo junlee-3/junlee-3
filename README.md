@@ -8,11 +8,6 @@
 <!-- TODO: Replace with your own achievement/credential badge -->
 <img alt="Software Engineer @ NOX" src="https://img.shields.io/badge/Software_Engineer_@_NOX-000000?style=for-the-badge&logo=github&logoColor=white">
 
-<br/><br/>
-
-Software Engineer @ **[NOX](https://www.heynox.com/)** 
-
-<br/>
 
 <!-- Social Links - Clean & Minimal -->
 [![LinkedIn](https://img.shields.io/badge/Jun%20Lee-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junlee-/)
