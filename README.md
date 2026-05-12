@@ -6,7 +6,7 @@
 <br/>
 
 <!-- TODO: Replace with your own achievement/credential badge -->
-<img alt="Software Engineer @ NOX" src="https://img.shields.io/badge/Software_Engineer_@_NOX-000000?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Software Engineer @ NOX" src="https://www.heynox.com">
 
 
 <!-- Social Links - Clean & Minimal -->
