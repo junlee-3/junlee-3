@@ -1,63 +1,53 @@
 <div align="center">
 
-<img src="./banner.svg" alt="JUN LEE" width="640" />
-
-### Software Engineer · NOX
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F5821F&center=true&vCenter=true&width=560&lines=Building+products+that+feel+good+to+use.;Shipping+fast.+Polishing+harder.;Based+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="" />
+<!-- Animated Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&color=F5821F&center=true&multiline=true&repeat=false&width=435&height=85&lines=Hey%2C+I'm+Jun+%F0%9F%91%8B;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+in+Australia+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="./divider.svg" width="100%" alt="" />
+Building software at **[NOX](https://www.heynox.com/)**.
+
+<br/>
+
+<!-- Social Links — Clean & Minimal -->
+[![LinkedIn](https://img.shields.io/badge/Jun%20Lee-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junlee-/)
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/@JunL356-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/JunL356)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/junlee--3-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/junlee-3)
 
 </div>
 
-<br/>
+---
 
-## About
-
-Software engineer based in Australia. I love building products, shipping fast, and obsessing over the details that make software feel good to use.
-
-<br/>
-
-## Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-<br/>
-
-## Experience
-
-**Software Engineer** · NOX  
-<sub>Currently shipping.</sub>
-
-<br/>
-
-## Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/junlee-/">
-    <img src="https://img.shields.io/badge/LinkedIn-009DDC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://x.com/JunL356">
-    <img src="https://img.shields.io/badge/@JunL356-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>&nbsp;
-  <a href="https://github.com/junlee-3">
-    <img src="https://img.shields.io/badge/junlee--3-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
+### `// Tech Stack`
 
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,python&theme=dark)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=supabase,firebase,vercel&theme=dark)](https://skillicons.dev)
+
+</div>
+
+```typescript
+const jun = {
+  focus:             ['web', 'ai', 'products'],
+  languages:         ['TypeScript', 'Python'],
+  frameworks:        ['React', 'Next.js'],
+  cloud:             ['Supabase', 'Firebase', 'Vercel'],
+  currentlyBuilding: 'at NOX',
+  location:          'Australia 🇦🇺',
+} as const;
+```
+
+---
+
+<div align="center">
+
+<sub>*"Real artists ship."* — Steve Jobs</sub>
+
+<br/><br/>
 
 <img src="./divider.svg" width="100%" alt="" />
 
