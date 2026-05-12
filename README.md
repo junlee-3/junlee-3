@@ -1,18 +1,23 @@
 <div align="center">
-
+    
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&color=F5821F&center=true&multiline=true&repeat=false&width=435&height=85&lines=Hey%2C+I'm+Jun+%F0%9F%91%8B;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+in+Australia+%F0%9F%87%A6%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=10&color=000000&center=true&multiline=true&repeat=false&width=435&height=85&lines=Hey%2C+I'm+Jun+%F0%9F%91%8B;Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Building+in+Australia+%F0%9F%93%8D)](https://git.io/typing-svg)
 
 <br/>
 
-Building software at **[NOX](https://www.heynox.com/)**.
+<!-- TODO: Replace with your own achievement/credential badge -->
+<img alt="Software Engineer @ NOX" src="https://img.shields.io/badge/Software_Engineer_@_NOX-000000?style=for-the-badge&logo=github&logoColor=white">
+
+<br/><br/>
+
+Software Engineer @ **[NOX](https://www.heynox.com/)** 
 
 <br/>
 
-<!-- Social Links — Clean & Minimal -->
+<!-- Social Links - Clean & Minimal -->
 [![LinkedIn](https://img.shields.io/badge/Jun%20Lee-0A0A0A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junlee-/)
 &nbsp;&nbsp;
-[![X](https://img.shields.io/badge/@JunL356-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/JunL356)
+[![Twitter](https://img.shields.io/badge/@JunL356-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://x.com/JunL356)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/junlee--3-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/junlee-3)
 
@@ -31,24 +36,29 @@ Building software at **[NOX](https://www.heynox.com/)**.
 </div>
 
 ```typescript
-const jun = {
-  focus:             ['web', 'ai', 'products'],
-  languages:         ['TypeScript', 'Python'],
-  frameworks:        ['React', 'Next.js'],
-  cloud:             ['Supabase', 'Firebase', 'Vercel'],
-  currentlyBuilding: 'at NOX',
-  location:          'Australia 🇦🇺',
-} as const;
+const jun: Developer = {
+    focus: ["Web", "AI", "Products"],
+    languages: ["TypeScript", "Python"],
+    frameworks: ["React", "Next.js", "Supabase", "Firebase", "Vercel"],
+    currentlyBuilding: "@ NOX"
+};
 ```
 
 ---
 
+### `// Beyond Code`
+
 <div align="center">
 
-<sub>*"Real artists ship."* — Steve Jobs</sub>
+<!-- TODO: Replace with your own hobby / credential / side interest -->
+**Videographer and AV Technician** · **Australian National Dragon Boating Representative**
 
-<br/><br/>
+<br/>
 
-<img src="./divider.svg" width="100%" alt="" />
+<sub>*"The people who are crazy enough to think they can change the world are the ones who do."*</sub>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%">
 </div>
