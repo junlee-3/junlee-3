@@ -55,9 +55,3 @@ Software engineer based in Australia. I love building products, shipping fast, a
 </p>
 
 <br/>
-
-<div align="center">
-
-<img src="./divider.svg" width="100%" alt="" />
-
-</div>
