@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner.svg" alt="JUN LEE" width="640" />
+
 ### Software Engineer · NOX
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F5821F&center=true&vCenter=true&width=560&lines=Building+products+that+feel+good+to+use.;Shipping+fast.+Polishing+harder.;Based+in+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="" />
@@ -21,13 +23,21 @@ Software engineer based in Australia. I love building products, shipping fast, a
 ## Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-61BB46?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-FDB827?style=for-the-badge&logo=next.js&logoColor=white" alt="React / Next.js" />&nbsp;
-  <img src="https://img.shields.io/badge/Python-F5821F?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Supabase-E03A3E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />&nbsp;
-  <img src="https://img.shields.io/badge/Vercel-963D97?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-009DDC?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />&nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />&nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
+
+<br/>
+
+## Experience
+
+**Software Engineer** · NOX  
+<sub>Currently shipping.</sub>
 
 <br/>
 
@@ -46,3 +56,9 @@ Software engineer based in Australia. I love building products, shipping fast, a
 </p>
 
 <br/>
+
+<div align="center">
+
+<img src="./divider.svg" width="100%" alt="" />
+
+</div>
